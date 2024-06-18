@@ -1,3 +1,3 @@
 # Live Project Link
 
-https://upskill-mafia-24.netlify.app/
+https://upskill-mafia-25.netlify.app/
